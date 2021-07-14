@@ -875,3 +875,1786 @@
 2021-07-14 17:12:45,632 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2531mS.
 2021-07-14 17:12:45,632 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
 2021-07-14 17:12:45,632 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:14:26,159 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:14:26,288 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\enes_\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2021-07-14 17:14:26,289 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-07-14 17:14:26,290 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-07-14 17:14:26,620 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-07-14 17:14:29,238 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-07-14 17:14:29,285 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-07-14 17:14:44,702 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:14:44,702 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:14:44,956 [INFO] Gpio:248 - dependency for GPIO [RCC, SYS, USART2]
+2021-07-14 17:14:44,987 [INFO] MicroXplorer:442 - Change Database Path : 
+2021-07-14 17:14:44,987 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.21
+2021-07-14 17:14:44,987 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2021-07-14 17:14:44,987 [INFO] ThirdParty:798 - entering critical section [close project]
+2021-07-14 17:14:44,987 [INFO] ThirdParty:809 - exiting critical section [close project]
+2021-07-14 17:14:44,987 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-07-14 17:14:44,987 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 568614904 Bytes (888143872)
+2021-07-14 17:14:44,987 [INFO] OpenFileManager:303 - Change cursor
+2021-07-14 17:14:45,018 [INFO] RulesReader:52 - Compatibility file has been processed (237 Rules)
+2021-07-14 17:14:46,815 [INFO] Context:587 - Trying to add GPIOservice into a context  which must be forbidden
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename Enabled to IBEACON is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for project manager is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for context M0+ is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_NS instance for context M4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance value for IP GTZC is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for mcu.IP is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for mcu.Pin is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for VP is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for mcu is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for mcu.Pin is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance value for IP GTZC is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for project manager is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for context M33S is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for VP is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule GTZC_S instance for signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule SPDIFRX instance for mcu is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename Tracer Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule SPDIFRX instance for signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule SPDIFRX instance for project manager is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule SPDIFRX instance for project manager is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC Scan  fix with FW F7 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC Scan  fix with FW F7 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add RTC Activate Clock Source is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add RTC Activate Calendar 1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add RTC Activate Calendar 2 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add RTC Activate Calendar 3 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART TX Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART RX Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART RX TX Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART PARITY NONE is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART PARITY EVEN is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART PARITY ODD is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART StopBits 1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART StopBits 2 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART StopBits 1.5 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART StopBits 0.5 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART WORD LENGTH 7 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART WORD LENGTH 8 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART WORD LENGTH 9 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename FMC NAND NCE signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename FMC NAND INT signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv L4 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv L4 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F3 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F3 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv Goldfish serie is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv Goldfish serie is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv L0 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F0 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConvn L1 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv L1 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F1 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F1 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F7 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F7 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F4 and F2 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F4 and F2 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0  is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0  is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0  is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename USB_OE Signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename Activate_OE Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule TimeTriggeredMode to TTCM is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN AutoBusOff to ABOM is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN AutoRetransmission to NART is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART TxPinLevelInvertParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART RxPinLevelInvertParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART DataInvertParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART SwapParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART OverrunDisableParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART DMADisableonRxErrorParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USART MSBFirstParam Mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Update MwName for USB_DEVICE is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule TIM1CLockSelection is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule TIM15CLockSelection is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Rename DCMI PIXCK signal is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for USART for G4 family is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change Default Value for PLL1UserDefinedConfig is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change GPIO_PuPd Default Value for USART in async mode is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Change SMPSDivider Default Value is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule OPAMP is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule USB device lib V2.5.3 for L0 rename USBD_SUPPORT_USER_STRING parameter to USBD_SUPPORT_USER_STRING_DESC4 is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule I2SCLockSelection clock entry align is applicable
+2021-07-14 17:14:47,237 [INFO] Rule:214 - rule Assign TIMx context if used as SYS timebase is applicable
+2021-07-14 17:14:47,252 [INFO] DbConfProperties:294 - Apply Compatibility (36/202 Rules)
+2021-07-14 17:14:48,689 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-07-14 17:14:48,799 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-07-14 17:14:48,814 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.1.0: no header file found
+2021-07-14 17:14:48,814 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.1.0: no header file found
+2021-07-14 17:14:48,814 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.1.0: no header file found
+2021-07-14 17:14:48,814 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-07-14 17:14:48,814 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-07-14 17:14:48,814 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-07-14 17:14:48,986 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-07-14 17:14:48,986 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-07-14 17:14:48,986 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-07-14 17:14:48,986 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-07-14 17:14:48,986 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-07-14 17:14:49,142 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.3.0: no header file found
+2021-07-14 17:14:49,142 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.3.0: no header file found
+2021-07-14 17:14:49,142 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.3.0: no header file found
+2021-07-14 17:14:49,158 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2021-07-14 17:14:49,158 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2021-07-14 17:14:49,158 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2021-07-14 17:14:49,158 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2021-07-14 17:14:49,158 [WARN] ModelIntegratedComponent:182 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.1.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.2: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.1: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.1.0: no header file found
+2021-07-14 17:14:49,158 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.0: no header file found
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLM)
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLN)
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLP)
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLQ)
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (RCC_PLLsource_Clock_Source_FROM_HSE)
+2021-07-14 17:14:50,564 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (72000000)
+2021-07-14 17:14:50,876 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 570920752 Bytes (913309696)
+2021-07-14 17:14:50,876 [WARN] ThirdParty:762 - waiting for thirdparty lock release [change project]
+2021-07-14 17:14:50,876 [INFO] ThirdParty:764 - entering critical section [change project]
+2021-07-14 17:14:50,876 [INFO] ThirdParty:952 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 3.0.1
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 2.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.1.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 1.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 1.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.3.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 1.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 6.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.1.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.1.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.2
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.17.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.1
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 4.7.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.1
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.1.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.0
+2021-07-14 17:14:50,892 [INFO] ThirdParty:770 - exiting critical section [change project]
+2021-07-14 17:14:51,079 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-07-14 17:14:51,079 [INFO] PinOutPanel:1435 - setPackage(STM32F303RETx,LQFP64)
+2021-07-14 17:14:51,595 [INFO] UtilMem:74 - Before build in PCC Used Memory: 461661416 Bytes (913309696)
+2021-07-14 17:14:51,735 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:14:51,767 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:14:51,798 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:14:51,798 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:14:51,829 [INFO] UtilMem:74 - After build in PCC Used Memory: 538205336 Bytes (913309696)
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,876 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,876 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,876 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:14:51,876 [INFO] OpenFileManager:323 - Restore cursor
+2021-07-14 17:14:52,185 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 654070936 Bytes (913309696)
+2021-07-14 17:14:52,257 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 367271600 Bytes (913309696)
+2021-07-14 17:14:52,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 17:14:52,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 17:14:52,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 17:14:52,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: USART
+2021-07-14 17:14:52,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 17:14:52,526 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 17:14:52,870 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\license.tmp_save
+2021-07-14 17:14:52,932 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\license.tmp
+2021-07-14 17:14:52,979 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\gpio.tmp_save
+2021-07-14 17:14:53,026 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\gpio.tmp
+2021-07-14 17:14:53,120 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-07-14 17:14:53,120 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_it.c_save
+2021-07-14 17:14:53,260 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_it.c
+2021-07-14 17:14:53,260 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 17:14:53,354 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_it.h
+2021-07-14 17:14:53,370 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 17:14:53,463 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 17:14:53,463 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\system.tmp_save
+2021-07-14 17:14:53,526 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\system.tmp
+2021-07-14 17:14:53,526 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 17:14:53,588 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 17:14:53,635 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\main.h_save
+2021-07-14 17:14:53,682 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\main.h
+2021-07-14 17:14:53,682 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\main.c_save
+2021-07-14 17:14:53,776 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\main.c
+2021-07-14 17:14:54,557 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 78mS.
+2021-07-14 17:14:54,557 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 17:14:55,104 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 17:14:55,104 [INFO] ApiDbMcu:458 - Load IP Config File for FATFS
+2021-07-14 17:14:55,150 [INFO] ApiDbMcu:458 - Load IP Config File for FREERTOS
+2021-07-14 17:14:55,307 [INFO] ApiDbMcu:458 - Load IP Config File for TOUCHSENSING
+2021-07-14 17:14:55,338 [INFO] ApiDbMcu:458 - Load IP Config File for USB_DEVICE
+2021-07-14 17:14:58,412 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 3855mS.
+2021-07-14 17:14:58,412 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:14:58,412 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:14:59,200 [INFO] ApiDb:276 - Save user favorites file C:\Users\enes_/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2021-07-14 17:14:59,200 [INFO] ApiDb:280 - User favorites MCUs=[STM32F100C8Tx]
+2021-07-14 17:14:59,200 [INFO] ApiDb:276 - Save user favorites file C:\Users\enes_/.stm32cubeide/favorites.boards.txt: 1 item(s)
+2021-07-14 17:14:59,200 [INFO] ApiDb:280 - User favorites Boards=[NUCLEO-F303RE]
+2021-07-14 17:27:42,705 [INFO] Gpio:248 - dependency for GPIO [RCC, SYS, USART2]
+2021-07-14 17:28:27,750 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,46,427x398,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-07-14 17:28:30,269 [INFO] Gpio:248 - dependency for GPIO [RCC, SYS, USART2]
+2021-07-14 17:28:36,454 [INFO] Gpio:248 - dependency for GPIO [RCC, SYS, USART2]
+2021-07-14 17:29:15,065 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 623869624 Bytes (954204160)
+2021-07-14 17:29:17,235 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 337694864 Bytes (954204160)
+2021-07-14 17:29:17,686 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 17:29:17,686 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 17:29:17,686 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 17:29:17,687 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 17:29:17,687 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 17:29:18,124 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\license.tmp_save
+2021-07-14 17:29:18,265 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\license.tmp
+2021-07-14 17:29:18,303 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\gpio.tmp_save
+2021-07-14 17:29:18,395 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\gpio.tmp
+2021-07-14 17:29:18,463 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_it.c_save
+2021-07-14 17:29:18,597 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_it.c
+2021-07-14 17:29:18,603 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 17:29:18,676 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_it.h
+2021-07-14 17:29:18,691 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 17:29:18,807 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 17:29:18,809 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\system.tmp_save
+2021-07-14 17:29:18,854 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\system.tmp
+2021-07-14 17:29:18,868 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 17:29:18,943 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 17:29:18,996 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\main.h_save
+2021-07-14 17:29:19,108 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\main.h
+2021-07-14 17:29:19,117 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\main.c_save
+2021-07-14 17:29:19,221 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\main.c
+2021-07-14 17:29:20,408 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 412mS.
+2021-07-14 17:29:20,412 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 17:29:20,935 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 17:29:22,930 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2518mS.
+2021-07-14 17:29:22,931 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:29:22,934 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:37:06,462 [INFO] Gpio:248 - dependency for GPIO [RCC, SYS]
+2021-07-14 17:37:30,606 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 452494472 Bytes (959447040)
+2021-07-14 17:37:31,561 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 468745352 Bytes (959447040)
+2021-07-14 17:37:33,988 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 407835480 Bytes (959447040)
+2021-07-14 17:37:34,293 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 17:37:34,293 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 17:37:34,293 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 17:37:34,294 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 17:37:34,295 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 17:37:34,608 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\license.tmp_save
+2021-07-14 17:37:35,058 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\license.tmp
+2021-07-14 17:37:35,123 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\gpio.tmp_save
+2021-07-14 17:37:35,229 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\gpio.tmp
+2021-07-14 17:37:35,316 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_it.c_save
+2021-07-14 17:37:35,393 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_it.c
+2021-07-14 17:37:35,398 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 17:37:35,451 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_it.h
+2021-07-14 17:37:35,467 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 17:37:35,547 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 17:37:35,550 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\system.tmp_save
+2021-07-14 17:37:35,604 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\MXTmpFiles\system.tmp
+2021-07-14 17:37:35,618 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 17:37:35,687 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 17:37:35,798 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\main.h_save
+2021-07-14 17:37:35,901 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Inc\main.h
+2021-07-14 17:37:35,910 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\main.c_save
+2021-07-14 17:37:36,012 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\002_exti\Core\Src\main.c
+2021-07-14 17:37:36,739 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 65mS.
+2021-07-14 17:37:36,744 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 17:37:37,088 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 17:37:39,090 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2346mS.
+2021-07-14 17:37:39,091 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:37:39,094 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:42:14,705 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:42:14,854 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\enes_\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2021-07-14 17:42:14,855 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-07-14 17:42:14,855 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-07-14 17:42:15,221 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-07-14 17:42:18,122 [INFO] DbMcusDocs:143 - JSON generation date=Mon Jun 07 11:53:21 TRT 2021 (1623056001)
+2021-07-14 17:42:18,481 [INFO] DbMcusDocs:79 - Found 669 MCUs documents
+2021-07-14 17:42:21,731 [INFO] ApiDb:276 - Save user favorites file C:\Users\enes_/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2021-07-14 17:42:21,732 [INFO] ApiDb:280 - User favorites MCUs=[STM32F100C8Tx]
+2021-07-14 17:42:25,200 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:42:25,299 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\enes_\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2021-07-14 17:42:25,301 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-07-14 17:42:25,301 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-07-14 17:42:25,567 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-07-14 17:42:27,201 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-07-14 17:42:27,233 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-07-14 17:42:38,180 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:42:38,181 [INFO] MainUpdater:2661 - connection check result : 10
+2021-07-14 17:42:38,680 [INFO] Gpio:248 - dependency for GPIO [RCC, SYS]
+2021-07-14 17:42:38,710 [INFO] MicroXplorer:442 - Change Database Path : 
+2021-07-14 17:42:38,711 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.21
+2021-07-14 17:42:38,711 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2021-07-14 17:42:38,711 [INFO] ThirdParty:798 - entering critical section [close project]
+2021-07-14 17:42:38,711 [INFO] ThirdParty:809 - exiting critical section [close project]
+2021-07-14 17:42:38,712 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-07-14 17:42:38,714 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 418240112 Bytes (867172352)
+2021-07-14 17:42:38,714 [INFO] OpenFileManager:303 - Change cursor
+2021-07-14 17:42:38,746 [INFO] RulesReader:52 - Compatibility file has been processed (237 Rules)
+2021-07-14 17:42:40,597 [INFO] Context:587 - Trying to add GPIOservice into a context  which must be forbidden
+2021-07-14 17:42:40,986 [INFO] Rule:214 - rule Rename Enabled to IBEACON is applicable
+2021-07-14 17:42:40,986 [INFO] Rule:214 - rule GTZC_S instance for project manager is applicable
+2021-07-14 17:42:40,986 [INFO] Rule:214 - rule GTZC_S instance for context M0+ is applicable
+2021-07-14 17:42:40,986 [INFO] Rule:214 - rule GTZC_NS instance for context M4 is applicable
+2021-07-14 17:42:40,986 [INFO] Rule:214 - rule GTZC_S instance value for IP GTZC is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for mcu.IP is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for mcu.Pin is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for VP is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for signal is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for mcu is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for mcu.Pin is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance value for IP GTZC is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for project manager is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for context M33S is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for VP is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule GTZC_S instance for signal is applicable
+2021-07-14 17:42:40,987 [INFO] Rule:214 - rule SPDIFRX instance for mcu is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule Rename Tracer Mode is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule SPDIFRX instance for signal is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule SPDIFRX instance for project manager is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule SPDIFRX instance for project manager is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule ADC Scan  fix with FW F7 is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule ADC Scan  fix with FW F7 is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule Add RTC Activate Clock Source is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule Add RTC Activate Calendar 1 is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule Add RTC Activate Calendar 2 is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule Add RTC Activate Calendar 3 is applicable
+2021-07-14 17:42:40,988 [INFO] Rule:214 - rule UART/USART TX Mode is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART RX Mode is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART RX TX Mode is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART PARITY NONE is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART PARITY EVEN is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART PARITY ODD is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule USART StopBits 1 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule USART StopBits 2 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule USART StopBits 1.5 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule USART StopBits 0.5 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART WORD LENGTH 7 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART WORD LENGTH 8 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule UART/USART WORD LENGTH 9 is applicable
+2021-07-14 17:42:40,989 [INFO] Rule:214 - rule Rename FMC NAND NCE signal is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Rename FMC NAND INT signal is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv L4 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv L4 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F3 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F3 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv Goldfish serie is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv Goldfish serie is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv L0 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F0 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConvn L1 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv L1 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F1 family is applicable
+2021-07-14 17:42:40,990 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F1 family is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F7 family is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F7 family is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigConv F4 and F2 family is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Change Default Value for ADC ExternalTrigInjecConv F4 and F2 family is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0  is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0  is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0 is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0 is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0  is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule ADC SamplingTime fix with FW L0 is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Rename USB_OE Signal is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Rename Activate_OE Mode is applicable
+2021-07-14 17:42:40,991 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2021-07-14 17:42:40,992 [INFO] Rule:214 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule TimeTriggeredMode to TTCM is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename CAN AutoBusOff to ABOM is applicable
+2021-07-14 17:42:40,993 [INFO] Rule:214 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule Rename CAN AutoRetransmission to NART is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2021-07-14 17:42:40,994 [INFO] Rule:214 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule USART TxPinLevelInvertParam Mode is applicable
+2021-07-14 17:42:40,995 [INFO] Rule:214 - rule USART RxPinLevelInvertParam Mode is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule USART DataInvertParam Mode is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule USART SwapParam Mode is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule USART OverrunDisableParam Mode is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule USART DMADisableonRxErrorParam Mode is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule USART MSBFirstParam Mode is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule Update MwName for USB_DEVICE is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule TIM1CLockSelection is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule TIM15CLockSelection is applicable
+2021-07-14 17:42:40,996 [INFO] Rule:214 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,997 [INFO] Rule:214 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Rename DCMI PIXCK signal is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change Default Value for USART for G4 family is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,998 [INFO] Rule:214 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2021-07-14 17:42:40,999 [INFO] Rule:214 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule Change Default Value for PLL1UserDefinedConfig is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule Change GPIO_PuPd Default Value for USART in async mode is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule Change SMPSDivider Default Value is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule OPAMP is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2021-07-14 17:42:41,000 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:42:41,001 [INFO] Rule:214 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2021-07-14 17:42:41,001 [INFO] Rule:214 - rule USB device lib V2.5.3 for L0 rename USBD_SUPPORT_USER_STRING parameter to USBD_SUPPORT_USER_STRING_DESC4 is applicable
+2021-07-14 17:42:41,001 [INFO] Rule:214 - rule I2SCLockSelection clock entry align is applicable
+2021-07-14 17:42:41,001 [INFO] Rule:214 - rule Assign TIMx context if used as SYS timebase is applicable
+2021-07-14 17:42:41,011 [INFO] DbConfProperties:294 - Apply Compatibility (36/202 Rules)
+2021-07-14 17:42:42,331 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2021-07-14 17:42:42,577 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-07-14 17:42:42,577 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-07-14 17:42:42,578 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-07-14 17:42:42,582 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-07-14 17:42:42,582 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-07-14 17:42:42,582 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-07-14 17:42:42,583 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,583 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,583 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,583 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,583 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,583 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,584 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,585 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,586 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,586 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,586 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,586 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,586 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,586 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-07-14 17:42:42,588 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-07-14 17:42:42,589 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-07-14 17:42:42,589 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-07-14 17:42:42,594 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.1.0: no header file found
+2021-07-14 17:42:42,594 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.1.0: no header file found
+2021-07-14 17:42:42,594 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.1.0: no header file found
+2021-07-14 17:42:42,597 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-07-14 17:42:42,598 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-07-14 17:42:42,598 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-07-14 17:42:42,748 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-07-14 17:42:42,749 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-07-14 17:42:42,749 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-07-14 17:42:42,754 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-07-14 17:42:42,755 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-07-14 17:42:42,886 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.3.0: no header file found
+2021-07-14 17:42:42,886 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.3.0: no header file found
+2021-07-14 17:42:42,886 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.3.0: no header file found
+2021-07-14 17:42:42,895 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2021-07-14 17:42:42,895 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2021-07-14 17:42:42,895 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2021-07-14 17:42:42,896 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2021-07-14 17:42:42,896 [WARN] ModelIntegratedComponent:182 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2021-07-14 17:42:42,902 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-07-14 17:42:42,902 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-07-14 17:42:42,902 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-07-14 17:42:42,902 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-07-14 17:42:42,903 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-07-14 17:42:42,903 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-07-14 17:42:42,903 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.1.0: no header file found
+2021-07-14 17:42:42,904 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.0: no header file found
+2021-07-14 17:42:42,904 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.2: no header file found
+2021-07-14 17:42:42,905 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.1: no header file found
+2021-07-14 17:42:42,906 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.1.0: no header file found
+2021-07-14 17:42:42,906 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.0: no header file found
+2021-07-14 17:42:44,182 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2021-07-14 17:42:44,184 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLM)
+2021-07-14 17:42:44,184 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLN)
+2021-07-14 17:42:44,184 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLP)
+2021-07-14 17:42:44,184 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLQ)
+2021-07-14 17:42:44,185 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (RCC_PLLsource_Clock_Source_FROM_HSE)
+2021-07-14 17:42:44,185 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (72000000)
+2021-07-14 17:42:44,522 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 699841552 Bytes (984612864)
+2021-07-14 17:42:44,523 [WARN] ThirdParty:762 - waiting for thirdparty lock release [change project]
+2021-07-14 17:42:44,523 [INFO] ThirdParty:764 - entering critical section [change project]
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 3.0.1
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 2.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.1.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 1.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 1.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2021-07-14 17:42:44,524 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.3.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 1.0.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 6.0.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.1.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.2.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.1.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2021-07-14 17:42:44,525 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.2
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.17.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.1
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 4.7.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.1
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.2.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.1.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.0
+2021-07-14 17:42:44,526 [INFO] ThirdParty:770 - exiting critical section [change project]
+2021-07-14 17:42:44,733 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-07-14 17:42:44,734 [INFO] PinOutPanel:1435 - setPackage(STM32F303RETx,LQFP64)
+2021-07-14 17:42:45,252 [INFO] UtilMem:74 - Before build in PCC Used Memory: 407653640 Bytes (984612864)
+2021-07-14 17:42:45,421 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:42:45,455 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:42:45,489 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:42:45,493 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/enes_/.stm32cubemx/plugins/power
+2021-07-14 17:42:45,531 [INFO] UtilMem:74 - After build in PCC Used Memory: 484201736 Bytes (984612864)
+2021-07-14 17:42:45,547 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,547 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,547 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,547 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,547 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,549 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,549 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,549 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,549 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,549 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,549 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,550 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,550 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,550 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,550 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,550 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,551 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,551 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,551 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,552 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,552 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,552 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,553 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,553 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,553 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,554 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,554 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,554 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,555 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,555 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,556 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,556 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,557 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,557 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,557 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,558 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,558 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,559 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,559 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,560 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,561 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,561 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,562 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,562 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,563 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,564 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,565 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,565 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-07-14 17:42:45,580 [INFO] OpenFileManager:323 - Restore cursor
+2021-07-14 17:42:45,877 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 600069384 Bytes (984612864)
+2021-07-14 17:42:45,929 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 611077384 Bytes (984612864)
+2021-07-14 17:42:46,233 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 17:42:46,233 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 17:42:46,234 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 17:42:46,234 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: USART
+2021-07-14 17:42:46,234 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 17:42:46,235 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 17:42:46,615 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp_save
+2021-07-14 17:42:46,694 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp
+2021-07-14 17:42:46,747 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp_save
+2021-07-14 17:42:46,801 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp
+2021-07-14 17:42:46,892 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-07-14 17:42:46,903 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c_save
+2021-07-14 17:42:47,340 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c
+2021-07-14 17:42:47,343 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 17:42:47,394 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h
+2021-07-14 17:42:47,401 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 17:42:47,485 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 17:42:47,488 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp_save
+2021-07-14 17:42:47,536 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp
+2021-07-14 17:42:47,543 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 17:42:47,609 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 17:42:47,655 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h_save
+2021-07-14 17:42:47,714 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h
+2021-07-14 17:42:47,716 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c_save
+2021-07-14 17:42:47,810 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c
+2021-07-14 17:42:48,646 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 68mS.
+2021-07-14 17:42:48,650 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 17:42:49,024 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 17:42:49,030 [INFO] ApiDbMcu:458 - Load IP Config File for FATFS
+2021-07-14 17:42:49,055 [INFO] ApiDbMcu:458 - Load IP Config File for FREERTOS
+2021-07-14 17:42:49,195 [INFO] ApiDbMcu:458 - Load IP Config File for TOUCHSENSING
+2021-07-14 17:42:49,216 [INFO] ApiDbMcu:458 - Load IP Config File for USB_DEVICE
+2021-07-14 17:42:52,180 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 3530mS.
+2021-07-14 17:42:52,181 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2021-07-14 17:42:52,184 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 17:42:52,879 [INFO] ApiDb:276 - Save user favorites file C:\Users\enes_/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2021-07-14 17:42:52,880 [INFO] ApiDb:280 - User favorites MCUs=[STM32F100C8Tx]
+2021-07-14 17:42:52,881 [INFO] ApiDb:276 - Save user favorites file C:\Users\enes_/.stm32cubeide/favorites.boards.txt: 1 item(s)
+2021-07-14 17:42:52,881 [INFO] ApiDb:280 - User favorites Boards=[NUCLEO-F303RE]
+2021-07-14 18:28:17,534 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,535 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,536 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,536 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,536 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,536 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,538 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:17,538 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,791 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,792 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,798 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,798 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,798 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,799 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,799 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,799 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,799 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,799 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,800 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,800 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,800 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,800 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,800 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,800 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,801 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,801 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,801 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,801 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,802 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,802 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,802 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,803 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,803 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,803 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,803 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,803 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,804 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,804 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,804 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,804 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,805 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,805 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,805 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,805 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,835 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,836 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,837 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,838 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,838 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,838 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,840 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,841 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,943 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,943 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,945 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,945 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,945 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,945 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,946 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,947 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,948 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:37,949 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:38,051 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,051 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,052 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,052 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,052 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,053 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,054 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:38,054 [INFO] ADCParametersView:97 -                Rank 1 : false
+2021-07-14 18:28:47,348 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:47,348 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,547 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,547 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,552 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,552 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,552 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,552 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,553 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,553 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,553 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,553 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,553 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,553 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,554 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,555 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,556 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,557 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,557 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,557 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:51,654 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,654 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,655 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,655 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,656 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,656 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,657 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:28:51,657 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:28:55,444 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 430524000 Bytes (982515712)
+2021-07-14 18:28:56,328 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 446774880 Bytes (982515712)
+2021-07-14 18:28:57,585 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 523847264 Bytes (982515712)
+2021-07-14 18:28:57,973 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 18:28:57,974 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ADC
+2021-07-14 18:28:57,974 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 18:28:57,974 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 18:28:57,974 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 18:28:57,975 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 18:28:58,362 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp_save
+2021-07-14 18:28:58,453 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp
+2021-07-14 18:28:58,487 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp_save
+2021-07-14 18:28:58,552 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp
+2021-07-14 18:28:58,856 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-07-14 18:28:58,886 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c_save
+2021-07-14 18:28:58,975 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c
+2021-07-14 18:28:58,979 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 18:28:59,037 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h
+2021-07-14 18:28:59,051 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 18:28:59,158 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 18:28:59,162 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp_save
+2021-07-14 18:28:59,213 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp
+2021-07-14 18:28:59,227 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 18:28:59,308 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 18:28:59,355 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h_save
+2021-07-14 18:28:59,427 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h
+2021-07-14 18:28:59,430 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c_save
+2021-07-14 18:28:59,551 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c
+2021-07-14 18:29:00,906 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 400mS.
+2021-07-14 18:29:00,912 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 18:29:01,368 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 18:29:04,057 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 3145mS.
+2021-07-14 18:29:04,058 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2021-07-14 18:29:04,066 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 18:29:14,824 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 525535296 Bytes (982515712)
+2021-07-14 18:29:15,072 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 18:29:15,072 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ADC
+2021-07-14 18:29:15,072 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 18:29:15,072 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 18:29:15,072 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 18:29:15,073 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 18:29:15,544 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp_save
+2021-07-14 18:29:15,614 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp
+2021-07-14 18:29:15,673 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp_save
+2021-07-14 18:29:15,746 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp
+2021-07-14 18:29:15,820 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-07-14 18:29:15,837 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c_save
+2021-07-14 18:29:15,916 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c
+2021-07-14 18:29:15,921 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 18:29:16,037 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h
+2021-07-14 18:29:16,060 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 18:29:16,182 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 18:29:16,184 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp_save
+2021-07-14 18:29:16,230 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp
+2021-07-14 18:29:16,242 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 18:29:16,318 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 18:29:16,365 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h_save
+2021-07-14 18:29:16,450 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h
+2021-07-14 18:29:16,460 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c_save
+2021-07-14 18:29:16,598 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c
+2021-07-14 18:29:17,437 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 71mS.
+2021-07-14 18:29:17,441 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 18:29:17,991 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 18:29:19,856 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2415mS.
+2021-07-14 18:29:19,856 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 18:29:19,858 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 18:30:16,081 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 497092184 Bytes (994050048)
+2021-07-14 18:30:16,354 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 18:30:16,354 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ADC
+2021-07-14 18:30:16,354 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 18:30:16,354 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 18:30:16,355 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 18:30:16,356 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 18:30:16,805 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp_save
+2021-07-14 18:30:16,903 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp
+2021-07-14 18:30:16,940 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp_save
+2021-07-14 18:30:17,020 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp
+2021-07-14 18:30:17,100 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-07-14 18:30:17,238 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c_save
+2021-07-14 18:30:17,355 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c
+2021-07-14 18:30:17,360 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 18:30:17,410 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h
+2021-07-14 18:30:17,423 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 18:30:17,507 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 18:30:17,510 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp_save
+2021-07-14 18:30:17,556 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp
+2021-07-14 18:30:17,568 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 18:30:17,636 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 18:30:17,682 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h_save
+2021-07-14 18:30:17,739 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h
+2021-07-14 18:30:17,747 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c_save
+2021-07-14 18:30:17,875 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c
+2021-07-14 18:30:18,628 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 77mS.
+2021-07-14 18:30:18,633 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 18:30:19,067 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 18:30:20,878 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2245mS.
+2021-07-14 18:30:20,878 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 18:30:20,880 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,897 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:54,912 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,194 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,194 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,209 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,209 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,209 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,209 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,209 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,209 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,334 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,350 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:55,365 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,127 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,142 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,158 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:55:56,267 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:56:05,937 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:56:05,937 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,009 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,272 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,397 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,413 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,780 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,780 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,780 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,780 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,781 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,782 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,783 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,784 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,785 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,786 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,787 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,788 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,789 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,790 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,791 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,792 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,793 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:10,904 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,904 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,906 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,906 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,907 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,907 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,909 [INFO] ADCParametersView:97 -                SequencerNbRanks 1 : true
+2021-07-14 18:58:10,909 [INFO] ADCParametersView:97 -                Rank 1 : true
+2021-07-14 18:58:17,545 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 632753744 Bytes (1001390080)
+2021-07-14 18:58:18,429 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 668405328 Bytes (1001390080)
+2021-07-14 18:58:19,587 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 752813648 Bytes (1001390080)
+2021-07-14 18:58:19,876 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-07-14 18:58:19,876 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ADC
+2021-07-14 18:58:19,876 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-07-14 18:58:19,876 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-07-14 18:58:19,876 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-07-14 18:58:19,876 [INFO] CodeGenerator:641 - code generatio: config db path: D:\St\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2021-07-14 18:58:20,407 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp_save
+2021-07-14 18:58:20,516 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\license.tmp
+2021-07-14 18:58:20,547 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp_save
+2021-07-14 18:58:20,693 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\gpio.tmp
+2021-07-14 18:58:20,834 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-07-14 18:58:20,855 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c_save
+2021-07-14 18:58:20,954 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_it.c
+2021-07-14 18:58:20,958 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h_save
+2021-07-14 18:58:21,035 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_it.h
+2021-07-14 18:58:21,337 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c_save
+2021-07-14 18:58:21,471 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\stm32f3xx_hal_msp.c
+2021-07-14 18:58:21,474 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp_save
+2021-07-14 18:58:21,532 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\MXTmpFiles\system.tmp
+2021-07-14 18:58:21,546 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h_save
+2021-07-14 18:58:21,781 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\stm32f3xx_hal_conf.h
+2021-07-14 18:58:21,815 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h_save
+2021-07-14 18:58:21,877 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Inc\main.h
+2021-07-14 18:58:21,893 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c_save
+2021-07-14 18:58:22,002 [INFO] CodeEngine:247 - Generated code: C:\Users\enes_\Desktop\stm32-examples\003_adc\Core\Src\main.c
+2021-07-14 18:58:22,925 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 92mS.
+2021-07-14 18:58:22,928 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-07-14 18:58:23,287 [INFO] ConfigFileManager:1242 - The Die is : DIE446
+2021-07-14 18:58:25,448 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2520mS.
+2021-07-14 18:58:25,449 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2021-07-14 18:58:25,451 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
