@@ -8,3 +8,5 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_gpio\ Debug/activeLaunchTar
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_adc\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_adc\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:004_adc_dif\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_adc_exti\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_adc_exti\ Debug/activeLaunchTarget=null\:---

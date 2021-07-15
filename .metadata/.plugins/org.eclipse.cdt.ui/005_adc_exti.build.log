@@ -1,0 +1,10 @@
+11:27:26 **** Incremental Build of configuration Debug for project 005_adc_exti ****
+make -j8 all 
+arm-none-eabi-size   005_adc_exti.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16952	     20	   1660	  18632	   48c8	005_adc_exti.elf
+Finished building: default.size.stdout
+ 
+
+11:27:26 Build Finished. 0 errors, 0 warnings. (took 318ms)
+
