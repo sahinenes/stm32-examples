@@ -10,3 +10,6 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_adc\ Debug/activeLaunchTarg
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:004_adc_dif\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_adc_exti\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_adc_exti\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:006_comp\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:006_comp\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:006_dac\ Debug/activeLaunchMode=debug
