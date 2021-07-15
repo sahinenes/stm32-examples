@@ -1,31 +1,24 @@
-14:35:26 **** Incremental Build of configuration Debug for project 009_uart_recive ****
+15:19:25 **** Incremental Build of configuration Debug for project 010_uart_it ****
 make -j8 all 
 arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F303xE -c -I../Core/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F3xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "009_uart_recive.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\enes_\Desktop\stm32-examples\009_uart_recive\STM32F303RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="009_uart_recive.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: 009_uart_recive.elf
+arm-none-eabi-gcc -o "010_uart_it.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\enes_\Desktop\stm32-examples\010_uart_it\STM32F303RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="010_uart_it.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 010_uart_it.elf
  
-arm-none-eabi-objdump -h -S  009_uart_recive.elf  > "009_uart_recive.list"
-arm-none-eabi-objcopy  -O binary  009_uart_recive.elf  "009_uart_recive.bin"
-arm-none-eabi-size   009_uart_recive.elf 
+arm-none-eabi-objdump -h -S  010_uart_it.elf  > "010_uart_it.list"
+arm-none-eabi-objcopy  -O binary  010_uart_it.elf  "010_uart_it.bin"
+arm-none-eabi-size   010_uart_it.elf 
    text	   data	    bss	    dec	    hex	filename
-  11172	     20	   1724	  12916	   3274	009_uart_recive.elf
+  13844	     28	   1756	  15628	   3d0c	010_uart_it.elf
 Finished building: default.size.stdout
  
-Finished building: 009_uart_recive.bin
+Finished building: 010_uart_it.bin
  
-Finished building: 009_uart_recive.list
+Finished building: 010_uart_it.list
  
-14:35:32 **** Incremental Build of configuration Debug for project 009_uart_recive ****
+15:19:29 **** Incremental Build of configuration Debug for project 010_uart_it ****
 make -j8 all 
-arm-none-eabi-size   009_uart_recive.elf 
+arm-none-eabi-size   010_uart_it.elf 
    text	   data	    bss	    dec	    hex	filename
-  11172	     20	   1724	  12916	   3274	009_uart_recive.elf
-Finished building: default.size.stdout
- 
-14:35:40 **** Incremental Build of configuration Debug for project 009_uart_recive ****
-make -j8 all 
-arm-none-eabi-size   009_uart_recive.elf 
-   text	   data	    bss	    dec	    hex	filename
-  11172	     20	   1724	  12916	   3274	009_uart_recive.elf
+  13844	     28	   1756	  15628	   3d0c	010_uart_it.elf
 Finished building: default.size.stdout
  

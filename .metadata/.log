@@ -1130,3 +1130,6 @@ C Model Exception: C Model Status [Element main.c does not exist.]
 
 !ENTRY org.eclipse.cdt.dsf 4 10005 2021-07-15 14:35:40.817
 !MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.gdb.internal.ui.actions.DsfTerminateCommand$3$1@36f0ecd): Status OK: unknown code=0 OK null' resulted in a rejected execution exception.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-15 14:39:14.385
+!MESSAGE Indexed '010_uart_it' (23 sources, 84 headers) in 2.91 sec: 5,450 declarations; 30,299 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0056%)
