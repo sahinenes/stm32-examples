@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>002_exti</name>
+	<name>002_gpio_exti</name>
 	<comment></comment>
 	<projects>
 	</projects>
