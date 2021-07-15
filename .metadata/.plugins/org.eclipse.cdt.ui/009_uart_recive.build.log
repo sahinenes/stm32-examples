@@ -1,0 +1,10 @@
+14:35:40 **** Incremental Build of configuration Debug for project 009_uart_recive ****
+make -j8 all 
+arm-none-eabi-size   009_uart_recive.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11172	     20	   1724	  12916	   3274	009_uart_recive.elf
+Finished building: default.size.stdout
+ 
+
+14:35:41 Build Finished. 0 errors, 0 warnings. (took 415ms)
+

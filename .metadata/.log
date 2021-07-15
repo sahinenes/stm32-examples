@@ -1124,3 +1124,9 @@ C Model Exception: C Model Status [Element main.c does not exist.]
 	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
 !SUBENTRY 1 org.eclipse.cdt.core 4 969 2021-07-15 14:29:07.370
 !MESSAGE Element main.c does not exist.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-15 14:31:34.359
+!MESSAGE Indexed '009_uart_recive' (23 sources, 84 headers) in 2.89 sec: 5,450 declarations; 30,299 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0056%)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2021-07-15 14:35:40.817
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.gdb.internal.ui.actions.DsfTerminateCommand$3$1@36f0ecd): Status OK: unknown code=0 OK null' resulted in a rejected execution exception.
