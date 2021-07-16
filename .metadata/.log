@@ -1508,3 +1508,18 @@ org.osgi.service.prefs.BackingStoreException: Exception occurred while saving pr
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-17 01:08:24.253
+!MESSAGE Indexed '012_i2c_recive' (23 sources, 84 headers) in 3.62 sec: 5,450 declarations; 30,299 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0056%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-07-17 01:11:32.829
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 19 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-07-17 01:11:32.829
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-07-17 01:11:32.829
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 19 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-07-17 01:11:32.829
+!MESSAGE Existing sessions are:

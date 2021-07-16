@@ -1,10 +1,10 @@
-01:06:13 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
+01:20:04 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
 make -j8 all 
 arm-none-eabi-size   012_i2c_recive.elf 
    text	   data	    bss	    dec	    hex	filename
-  12224	     28	   1788	  14040	   36d8	012_i2c_recive.elf
+  10812	     20	   1668	  12500	   30d4	012_i2c_recive.elf
 Finished building: default.size.stdout
  
 
-01:06:13 Build Finished. 0 errors, 0 warnings. (took 313ms)
+01:20:04 Build Finished. 0 errors, 0 warnings. (took 328ms)
 

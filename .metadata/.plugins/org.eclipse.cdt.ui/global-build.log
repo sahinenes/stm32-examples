@@ -1,28 +1,45 @@
-01:04:50 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
+01:15:03 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F303xE -c -I../Core/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F3xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "012_i2c_recive.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\enes_\Desktop\stm32-examples\012_i2c_recive\STM32F303RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="012_i2c_recive.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 012_i2c_recive.elf
+ 
+arm-none-eabi-objdump -h -S  012_i2c_recive.elf  > "012_i2c_recive.list"
+arm-none-eabi-objcopy  -O binary  012_i2c_recive.elf  "012_i2c_recive.bin"
+arm-none-eabi-size   012_i2c_recive.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10812	     20	   1668	  12500	   30d4	012_i2c_recive.elf
+Finished building: default.size.stdout
+ 
+Finished building: 012_i2c_recive.bin
+ 
+Finished building: 012_i2c_recive.list
+ 
+01:15:07 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
 make -j8 all 
 arm-none-eabi-size   012_i2c_recive.elf 
    text	   data	    bss	    dec	    hex	filename
-  12224	     28	   1788	  14040	   36d8	012_i2c_recive.elf
+  10812	     20	   1668	  12500	   30d4	012_i2c_recive.elf
 Finished building: default.size.stdout
  
-01:04:54 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
+01:16:07 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
 make -j8 all 
 arm-none-eabi-size   012_i2c_recive.elf 
    text	   data	    bss	    dec	    hex	filename
-  12224	     28	   1788	  14040	   36d8	012_i2c_recive.elf
+  10812	     20	   1668	  12500	   30d4	012_i2c_recive.elf
 Finished building: default.size.stdout
  
-01:05:55 **** Incremental Build of configuration Debug for project 008_uart_transmit ****
-make -j8 all 
-arm-none-eabi-size   008_uart_transmit.elf 
-   text	   data	    bss	    dec	    hex	filename
-  11128	     28	   1700	  12856	   3238	008_uart_transmit.elf
-Finished building: default.size.stdout
- 
-01:06:13 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
+01:17:22 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
 make -j8 all 
 arm-none-eabi-size   012_i2c_recive.elf 
    text	   data	    bss	    dec	    hex	filename
-  12224	     28	   1788	  14040	   36d8	012_i2c_recive.elf
+  10812	     20	   1668	  12500	   30d4	012_i2c_recive.elf
+Finished building: default.size.stdout
+ 
+01:20:04 **** Incremental Build of configuration Debug for project 012_i2c_recive ****
+make -j8 all 
+arm-none-eabi-size   012_i2c_recive.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10812	     20	   1668	  12500	   30d4	012_i2c_recive.elf
 Finished building: default.size.stdout
  
