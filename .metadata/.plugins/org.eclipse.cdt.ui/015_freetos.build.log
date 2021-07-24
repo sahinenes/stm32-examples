@@ -1,0 +1,10 @@
+19:34:24 **** Incremental Build of configuration Debug for project 015_freetos ****
+make -j8 all 
+arm-none-eabi-size   015_freetos.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18448	     24	   5792	  24264	   5ec8	015_freetos.elf
+Finished building: default.size.stdout
+ 
+
+19:34:24 Build Finished. 0 errors, 0 warnings. (took 375ms)
+
