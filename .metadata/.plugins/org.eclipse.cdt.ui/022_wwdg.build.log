@@ -1,0 +1,10 @@
+21:57:03 **** Incremental Build of configuration Debug for project 022_wwdg ****
+make -j8 all 
+arm-none-eabi-size   022_wwdg.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11068	     20	   1724	  12812	   320c	022_wwdg.elf
+Finished building: default.size.stdout
+ 
+
+21:57:03 Build Finished. 0 errors, 0 warnings. (took 434ms)
+

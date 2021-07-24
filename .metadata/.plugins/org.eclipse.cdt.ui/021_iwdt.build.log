@@ -1,0 +1,20 @@
+21:29:31 **** Incremental Build of configuration Debug for project 021_iwdt ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F303xE -c -I../Core/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F3xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "021_iwdt.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\enes_\Desktop\stm32-examples\021_iwdt\STM32F303RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="021_iwdt.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 021_iwdt.elf
+ 
+arm-none-eabi-objdump -h -S  021_iwdt.elf  > "021_iwdt.list"
+arm-none-eabi-objcopy  -O binary  021_iwdt.elf  "021_iwdt.bin"
+arm-none-eabi-size   021_iwdt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11128	     20	   1716	  12864	   3240	021_iwdt.elf
+Finished building: default.size.stdout
+ 
+Finished building: 021_iwdt.bin
+ 
+Finished building: 021_iwdt.list
+ 
+
+21:29:32 Build Finished. 0 errors, 0 warnings. (took 1s.256ms)
+
