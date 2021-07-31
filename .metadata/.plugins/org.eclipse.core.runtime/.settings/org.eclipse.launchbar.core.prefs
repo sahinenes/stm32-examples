@@ -41,5 +41,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:020_freetos_timer\ Debug/active
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:020_freetos_timer\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:021_iwdt\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:022_wwdg\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:022_wwdg\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:023_basic_timer\ Debug/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:016_freetos2\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:016_freetos2\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
