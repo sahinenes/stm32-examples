@@ -1,3 +1,3 @@
 # stm32 examples
- 
-stm32-examples/tree/main/001_gpio
+
+NUCLEO-F303RE ve HAL kütüphaneleri kullanılarak örnek çalışmalar yapıldı.
